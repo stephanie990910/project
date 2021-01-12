@@ -43,19 +43,19 @@ body {
 }
 
 .bg {
-    background-image: url("/assets/background1.jpg");
+    background-image: url(assets/background1.jpg);
 }
 
 .bg1 {
-    background-image: url("/assets/background2.jpg");
+    background-image: url(assets/background2.jpg);
 }
 
 .bg2 {
-    background-image: url("assets/background3.jpg");
+    background-image: url(assets/background3.jpg);
 }
 
 .bg3 {
-    background-image: url("assets/background4.jpg");
+    background-image: url(assets/background4.jpg);
 }
 
 .slideanimate {
@@ -94,7 +94,7 @@ body {
     }
 }
 #mapimg{
-    background-image: url("/assets/fullmap.png");
+    background-image: url(assets/fullmap.png);
     background-position:-20% 0;
     animation: move 1s linear forwards;
     background-repeat:no-repeat;
