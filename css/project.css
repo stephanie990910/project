@@ -93,7 +93,7 @@ body {
         -webkit-transform: translateY(0%);
     }
 }
-#map-img{
+#mapimg{
     background-image: url("/assets/fullmap.png");
     background-position:-20% 0;
     animation: move 1s linear forwards;
@@ -103,5 +103,12 @@ body {
 .textblock{
     background-color:#DDC470a3;
     text-align:center;
+    
+}
+#map-img{
+    background-color: #573B3A;
+}
+.recordingmap p{
+    font-weight: bold;
     
 }
