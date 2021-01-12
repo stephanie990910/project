@@ -43,19 +43,19 @@ body {
 }
 
 .bg {
-    background-image: url(/assets/background1.jpg);
+    background-image: url(assets/background1.jpg);
 }
 
 .bg1 {
-    background-image: url(/assets/background2.jpg);
+    background-image: url(assets/background2.jpg);
 }
 
 .bg2 {
-    background-image: url(/assets/background3.jpg);
+    background-image: url(assets/background3.jpg);
 }
 
 .bg3 {
-    background-image: url(/assets/background4.jpg);
+    background-image: url(assets/background4.jpg);
 }
 
 .slideanimate {
